@@ -1,4 +1,4 @@
-# angelalmachado-2023-01-17-dsci310-git-ange
+# angelalmachado-2023-01-17-dsci310-git-ange: DSCI 310
 Intro Git Demo
 
 - `git clone <URL>`: takes what's on github and does a one time download to your computer
@@ -8,3 +8,5 @@ Intro Git Demo
 
 but... there is a shortcut 
 - `git commit -m "MESSAGE"`: create the git message directly in the command line
+  
+- `git push origin main`:  sends code from branch "main" local computer to the remote origin
