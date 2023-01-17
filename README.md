@@ -1,4 +1,4 @@
-# angelalmachado-2023-01-17-dsci310-git-ange
+# angelalmachado-2023-01-17-dsci310-git-ange Git Demo
 Intro Git Demo
 
 - `git clone <URL>`: takes what's on github and does a one time download to your computer
@@ -8,3 +8,7 @@ Intro Git Demo
 
 but... there is a shortcut 
 - `git commit -m "MESSAGE"`: create the git message directly in the command line
+- `git push <where> <what>`: will take local commits on <what> and send it to <where>
+    - e.g. `git push origin main`
+- `git pull <where> <what>`: will take remote commits on <what> and pull it from <where>
+    - e.g. `git pull origin main`
