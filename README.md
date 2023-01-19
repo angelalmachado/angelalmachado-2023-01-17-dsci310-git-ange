@@ -1,4 +1,4 @@
-# angelalmachado-2023-01-17-dsci310-git-ange Git Demo
+# angelalmachado-2023-01-17-dsci310-git-ange: DSCI 310
 Intro Git Demo
 
 - `git clone <URL>`: takes what's on github and does a one time download to your computer
@@ -12,3 +12,4 @@ but... there is a shortcut
     - e.g. `git push origin main`
 - `git pull <where> <what>`: will take remote commits on <what> and pull it from <where>
     - e.g. `git pull origin main`
+- `git push origin main`:  sends code from branch "main" local computer to the remote origin
