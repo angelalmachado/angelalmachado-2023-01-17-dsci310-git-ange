@@ -13,3 +13,7 @@ but... there is a shortcut
 - `git pull <where> <what>`: will take remote commits on <what> and pull it from <where>
     - e.g. `git pull origin main`
 - `git push origin main`:  sends code from branch "main" local computer to the remote origin
+
+branches
+- `git branch [NAME]`: creates a new branch
+- `git checkout [NAME]`: moves to the branch
